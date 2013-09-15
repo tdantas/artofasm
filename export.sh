@@ -1,4 +1,4 @@
 whereami=`pwd`
 HLA_HOME="$whereami/usr/hla"
-PATH=$PATH:
+PATH=$PATH:$HLA_HOME
 export PATH
