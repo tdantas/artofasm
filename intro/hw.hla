@@ -1,5 +1,12 @@
 program HelloWorld;
+//  Declarations
+//  Variables, Procedures , Constants 
+
 #include( "stdlib.hhf" )
+
 begin HelloWorld;
+// Statements
+  
   stdout.put( nl "Hello, World of Assembly Language" nl  );
+
 end HelloWorld;
